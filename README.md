@@ -1,6 +1,6 @@
 # Lazy Recorder
 
-Lazy audio recorder that timestamps and location-GPS-stampes the filename
+Lazy audio recorder that timestamps and location-GPS-stamps the filename
 
 Features:
 - Records only in the best format available on my phone (16bit 48kHz stereo WAV)
