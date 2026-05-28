@@ -1,11 +1,15 @@
 # Lazy Recorder
 
-Lazy audio recorder that timestamps and location-GPS-stamps the filename
+<img src="lazylogo.png" width="64"> Lazy audio recorder that timestamps and location-GPS-stamps the filename
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/b430cba9-f198-4177-b880-e327e63f5f0a" />
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/a01c194c-6b91-437d-92fa-b25f10f6119d" />
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/5b20358c-7b90-4257-a93b-62ffa0899d5a" />
 
 Features:
-- Records only in the best format available on my phone (16bit 48kHz stereo WAV)
+- Records only in the best format available on my phone (16bit 48kHz stereo WAV as far as I know @ Motorola moto G34)
 - Just a button + a little bit of visualization
-- Tracks GPS location at end of the recording
+- Tracks GPS location at end of the recording (after trying to 'wake it up' at the beginning of the recording)
 - Fixed recording file path
 - No file(name) manager
 - WAV should be recoverable after crash without having to fix header unless that last fraction of a second was reaaaaally important.
